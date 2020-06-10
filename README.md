@@ -20,7 +20,7 @@ When writing the markdown documentation we would want to edit our markdown and t
 docker run --rm -v $PWD/docs:/slate/source -p 4567:4567 -it slate dev
 ```
 
-Then, the preview of the published html can be viewed at [127.0.0.1:5467](http://127.0.0.1:5467)
+Then, the preview of the published html can be viewed at [127.0.0.1:4567](http://127.0.0.1:4567)
 
 ### Publishing the doc
 
